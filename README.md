@@ -6,11 +6,6 @@ This project is a JavaScript application that processes learner submissions for 
 
 - [Overview](#overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Code Explanation](#code-explanation)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
