@@ -157,21 +157,3 @@ function getLearnerData(course, ag, submissions) {
 
 const result = getLearnerData(CourseInfo, AssignmentGroup, LearnerSubmissions);
 console.log(result);
-
-// const div = document.createElement("div");
-// const div2 = document.createElement("div");
-// const ol = document.createElement("ol");
-// const ul = document.createElement("ul");
-
-// for (let i = 0; i < 3; i++) {
-//   const li = document.createElement("li");
-//   ol.appendChild(li);
-// }
-// for (let i = 0; i < 3; i++) {
-//   const li = document.createElement("li");
-//   ul.appendChild(li);
-// }
-// div.appendChild(ol);
-// div2.appendChild(ul);
-// document.body.appendChild(div);
-// document.body.appendChild(div2);
